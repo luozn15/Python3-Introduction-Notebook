@@ -1,4 +1,4 @@
-# Python3基础
+# Python3基础笔记
 以jupyter notebook的形式，提供交互式的python3入门教程。
 
 **章节**
