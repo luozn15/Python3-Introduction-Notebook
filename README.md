@@ -1,5 +1,8 @@
-# Python3基础
-以jupyter notebook的形式，提供交互式的python3入门教程。
+# Python3基础笔记
+
+以jupyter notebook的形式，提供交互式的python3入门教程，含练习题若干。
+- *Copyright(c) 2020 罗子牛 Luo, Ziniu.*
+- *This project is licensed under the terms of the MIT license.*
 
 **章节**
 - 1. 简介与工具准备
