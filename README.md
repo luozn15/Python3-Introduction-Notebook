@@ -3,6 +3,7 @@
 以jupyter notebook的形式，提供交互式的python3入门教程，含练习题若干。
 - *Copyright(c) 2020 罗子牛 Luo, Ziniu.*
 - *This project is licensed under the terms of the MIT license.*
+- *Github: https://github.com/luozn15/Python3-Introduction-Notebook*
 
 **章节**
 - 1. 简介与工具准备
@@ -11,6 +12,10 @@
     - 1.3 jupyter notebook使用
         - 1.3.1 jupyter notebook 在线试用
         - 1.3.2 本地使用jupyter notebook
+        - 1.3.3 新建个人目录/程序/终端环境
+        - 1.3.4 熟悉工具栏操作
+        - 1.3.5 熟悉快捷键操作
+    - 1.4 练习题：熟悉jupyter notebook操作
 - 2. python基础语法
     - 2.1 = 赋值
     - 2.2 print()与input()
