@@ -14,7 +14,8 @@
 - 下载Anaconda Installer [Anaconda Individual Edition, Your data science toolkit](https://www.anaconda.com/products/individual)
 - 打开Anaconda Installers开始安装，如果不清楚选项的含义，保留默认选项即可。
 - 关于环境变量的添加(- [ ] Add Anaconda to the system PATH environment variable)和系统首选python版本的注册(- [ ] Register Anaconda as the system Python 3.x)
-<img src="https://img2018.cnblogs.com/blog/1685101/201908/1685101-20190807172730900-906396673.png" width="500">
+<img src="https://i0.hdslb.com/bfs/article/21f300ffbcbde0930839859941b45e58285ac049.png@942w_725h_progressive.webp" width="500">
+
 - Windows系统下，如果没有安装过python，两个都可以勾选。如不勾选，安装后的配置参考链接[https://zhuanlan.zhihu.com/p/358641541](https://zhuanlan.zhihu.com/p/358641541)。
 - Mac系统自带python版本，不推荐勾选，请自行搜索方案。
 
@@ -24,8 +25,9 @@
 ### Windows10
 - 进入某一工作目录下，从地址栏输入`jupyter notebook`，回车
 <img src="https://img-blog.csdnimg.cn/20190908135217739.png" width="500">
+
 - 通常情况下，自动启动浏览器，进入如下jupyter界面
-<img src="https://raw.githubusercontent.com/MrKaiWu/PythonForYou/0eb359b3b0060c1378bb22080799f9d35d876b99/chapter1(1116%E6%9B%B4%E6%96%B0)/pics/explorer.png" width="500">
+<img src="https://raw.githubusercontent.com/MrKaiWu/PythonForYou/0eb359b3b0060c1378bb22080799f9d35d876b99/chapter1(1116%E6%9B%B4%E6%96%B0)/pics/explorer.png" width="700">
 
 - 点击[Python3基础笔记.ipynb](./Python3基础笔记.ipynb)进入教程。如果当前目录下没有，可以通过upload将该文件加载到当前目录。
 
