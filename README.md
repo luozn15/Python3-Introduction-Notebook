@@ -1,6 +1,6 @@
 # Python3基础笔记
 
-以jupyter notebook的形式，提供交互式的python3入门教程，含练习题若干。
+以jupyter notebook的形式，提供交互式的python3入门学习笔记，含练习题若干。
 - *Copyright(c) 2020 罗子牛 Luo, Ziniu.*
 - *This project is licensed under the terms of the MIT license.*
 - *Github: https://github.com/luozn15/Python3-Introduction-Notebook*
@@ -34,7 +34,7 @@
 - 通常情况下，自动启动浏览器，进入如下jupyter界面
 <img src="https://raw.githubusercontent.com/MrKaiWu/PythonForYou/0eb359b3b0060c1378bb22080799f9d35d876b99/chapter1(1116%E6%9B%B4%E6%96%B0)/pics/explorer.png" width="700">
 
-- 点击[Python3基础笔记.ipynb](./Python3基础笔记.ipynb)进入教程。如果当前目录下没有，可以通过upload将该文件加载到当前目录。
+- 点击[Python3基础笔记.ipynb](./Python3基础笔记.ipynb)进入学习笔记。如果当前目录下没有，可以通过upload将该文件加载到当前目录。
 
 ### MacOS
 - 大同小异，搜索关键字 Mac + jupyter notebook
