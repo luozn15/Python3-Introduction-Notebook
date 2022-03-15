@@ -13,11 +13,16 @@
 ### Anaconda 下载安装
 - 下载Anaconda Installer [Anaconda Individual Edition, Your data science toolkit](https://www.anaconda.com/products/individual)
 - 打开Anaconda Installers开始安装，如果不清楚选项的含义，保留默认选项即可。
-- 关于环境变量的添加(- [ ] Add Anaconda to the system PATH environment variable)和系统首选python版本的注册(- [ ] Register Anaconda as the system Python 3.x)
-<img src="https://i0.hdslb.com/bfs/article/21f300ffbcbde0930839859941b45e58285ac049.png@942w_725h_progressive.webp" width="500">
+- 关于部分安装选项
 
-- Windows系统下，如果没有安装过python，两个都可以勾选。如不勾选，安装后的配置参考链接[https://zhuanlan.zhihu.com/p/358641541](https://zhuanlan.zhihu.com/p/358641541)。
-- Mac系统自带python版本，不推荐勾选，请自行搜索方案。
+    <img src="https://i0.hdslb.com/bfs/article/21f300ffbcbde0930839859941b45e58285ac049.png@942w_725h_progressive.webp" width="500">
+
+        - [ ] 环境变量的添加 (Add Anaconda to the system PATH environment variable)
+        - [ ] 系统首选python版本的注册 (Register Anaconda as the system Python 3.x)
+
+
+    - Windows系统下，如果没有安装过python，两个都可以勾选。如不勾选，安装后的配置参考链接[https://zhuanlan.zhihu.com/p/358641541](https://zhuanlan.zhihu.com/p/358641541)。
+    - Mac系统自带python版本，不推荐勾选，请自行搜索方案。
 
 
 
